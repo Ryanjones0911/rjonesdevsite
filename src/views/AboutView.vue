@@ -177,8 +177,7 @@ section {
 
 .intro {
   max-width: 800px;
-  margin-bottom: 5rem;
-  margin-left: 7rem;
+  margin: 0 auto 5rem;
   text-align: center;
 }
 
@@ -217,10 +216,10 @@ p {
 
 .links {
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
   gap: 0.9rem;
   margin-top: 2rem;
-  margin-left: 15rem;
 }
 
 .links a {
