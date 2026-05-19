@@ -1,6 +1,7 @@
 <script>
 import SiteHeader from './components/SiteHeader.vue'
 
+
 export default {
   components: {
     SiteHeader
@@ -22,26 +23,27 @@ export default {
 </template>
 
 <style scoped>
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
 main {
   margin: 0;
   min-height: 100vh;
   display: grid;
   place-content: center;
   text-align: center;
-  font-family: system-ui, sans-serif;
-  }
+  font-family: EB Garamond, serif;
+}
 
 
 h1 {
   font-size: 3rem;
   margin-bottom: 0.5rem;
 }
-
 </style>
 
 <style>
-body{
+body {
   background-color: #fafafa;
-  font-family: Garamond, "Times New Roman", serif
-
-}</style>
+  font-family: EB Garamond, "Times New Roman", serif
+}
+</style>

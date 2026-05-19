@@ -240,6 +240,7 @@ p {
   transform: translateY(-2px);
   border-color: #bdbdbd;
   background-color: #ededed;
+
 }
 
 .entry {
