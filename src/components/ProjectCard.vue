@@ -14,7 +14,6 @@ defineProps<{
   src: string
   altText: string
   url: string
-  ghTitle: string
 }>()
 
 
@@ -32,5 +31,21 @@ defineProps<{
   border-radius: 1rem;
   background-color: #f8f8f8;
 
+}
+
+@media (max-width: 430px) and (orientation: portrait) {
+  main {
+    max-width: 100%;
+    padding: 2rem 1rem 0;
+  }
+
+  .project-card {
+    padding: 1.25rem;
+  }
+
+  .project-card img {
+    width: 100%;
+    height: auto;
+  }
 }
 </style>

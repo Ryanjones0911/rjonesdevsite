@@ -3,7 +3,6 @@
     <h1>Things I've Done</h1>
     <ProjectCard title="Solar System Simulation" description="details forthcoming" src="/solarsystem.png"
       altText="solar system" url="https://github.com/Ryanjones0911/UTD-Graphics-Final-Project" />
-
   </main>
 </template>
 
