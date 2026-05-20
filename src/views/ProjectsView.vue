@@ -1,8 +1,9 @@
 <template>
   <main>
     <h1>Things I've Done</h1>
-    <ProjectCard title="Solar System Simulation" description="details forthcoming" src="/solarsystem.png"
-      altText="solar system" url="https://github.com/Ryanjones0911/UTD-Graphics-Final-Project" />
+    <ProjectCard title="Solar System Simulation"
+      description="A 3D Solar System visualization built with Three.js and Vite, featuring all eight planets with relative sizing, lighting and orbital motion, an Earth-orbiting Moon, Saturn’s rings, a 500+ object asteroid belt, orbit paths, labels, interactive camera controls, planet tracking, simulation speed controls, and a custom animated Sun shader."
+      src="/solarsystem.png" altText="solar system" url="https://github.com/Ryanjones0911/UTD-Graphics-Final-Project" />
   </main>
 </template>
 

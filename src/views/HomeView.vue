@@ -6,9 +6,9 @@
 
     <p class="intro">
       This site is a place for my projects, experience, and whatever else I decide is worth putting on the
-      internet </p>
-
-
+      internet. As of 5/20/26, I am building out the site both as a way to learn Vue.js and so I'll have a
+      place to host things. I don't quite know what it's going to look like yet, but it develops as
+      it does. </p>
   </main>
 </template>
 
